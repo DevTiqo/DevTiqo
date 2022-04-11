@@ -3,7 +3,7 @@
 
 **I'm DevTiqo, thanks for stopping by. Hope you get inspired and find something useful for you on here..** 
 
-Here are some ideas to get you started:
+Bienvenue , Ekaabo , Welcome  , Asalamualaykum 
 
 - 🔭 I’m currently working with Flutter, Kotlin, NodeJS, Python and PHP
 - 🌱 I’m currently learning cool stuff
