@@ -5,7 +5,7 @@
 
 Bienvenue , Ekaabo , Welcome  , Asalamualaykum 
 
-- 🔭 I’m currently working with Flutter, Kotlin, NodeJS, Python and PHP
+- 🔭 I’m currently working with Flutter, Kotlin, NodeJS, React Native, Python and PHP
 - 🌱 I’m currently learning cool stuff on Web3
 - 💬 Ask me about Flutter😄
 - ⚡ Fave Quote: "YOUR IDEAS DON'T WORK UNLESS YOU DO!" ...
